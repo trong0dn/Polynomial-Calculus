@@ -106,4 +106,4 @@ Exiting. Good-bye!
 ## CREDITS
 
 Thanks to the TAs and Instructor of my Object-Oriented Software Development
-course for the inital idea.
+course for the initial idea.
