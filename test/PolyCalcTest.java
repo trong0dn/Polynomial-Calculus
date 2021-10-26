@@ -1,6 +1,3 @@
-// STUDENT NAME: TRONG NGUYEN
-// STUDENT NUMBER: 100848232
-
 package test;
 
 import mymath.*;
