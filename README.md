@@ -2,12 +2,6 @@
 [Version 1.00] <br/>
 Feb 22, 2021 <br/>
 
-## CONTACT INFORMATION
-
-
-Contact Name:		  Trong Nguyen <br/>
-Contact Email:		trong0dn@gmail.com
-
 ## DESCRIPTION
 
 - PolyCalc short for Polynomial Calculus is a small program that takes the
